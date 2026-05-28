@@ -63,7 +63,7 @@ No boilerplate. No starter kit. Built line by line.
 ### 🤖 AI Sales Coach
 > Per-rep coaching reports with conversion rates, revenue intelligence, deal summaries, and AI-generated recommendations. Includes a team leaderboard ranked by performance.
 
-![AI Sales Coach](screenshots/Ai_Sales_Coach.png)
+![AI Sales Coach](screenshots/AI.png)
 
 ---
 
