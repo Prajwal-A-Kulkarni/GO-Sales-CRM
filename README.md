@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/Logo.png" width="60" alt="GoSale Logo" />
+<img src="screenshots/Logo.png" width="60" height="90" alt="GoSale Logo" />
 
 # GoSale AI Sales CRM
 
