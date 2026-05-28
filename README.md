@@ -42,7 +42,7 @@ No boilerplate. No starter kit. Built line by line.
 ### 💬 Follow-up System
 > Quick follow-up templates, note history, and one-click send — directly from the leads table.
 
-![Follow Up](screenshots/Follow_Up_Email.png)
+![Follow Up](screenshots/Follow Up Email.png)
 
 ---
 
@@ -63,7 +63,7 @@ No boilerplate. No starter kit. Built line by line.
 ### 🤖 AI Sales Coach
 > Per-rep coaching reports with conversion rates, revenue intelligence, deal summaries, and AI-generated recommendations. Includes a team leaderboard ranked by performance.
 
-![AI Sales Coach](screenshots/AI_Sales_Coach.png)
+![AI Sales Coach](screenshots/AI Sales Coach.png)
 
 ---
 
