@@ -56,7 +56,7 @@ No boilerplate. No starter kit. Built line by line.
 ### 🏆 Won Deals
 > Won deals with auto-generated invoices and service agreements — downloadable as PDF.
 
-![Won Deals](screenshots/Won-Deals.png)
+![Won Deals](screenshots/Won_Deals.png)
 
 ---
 
