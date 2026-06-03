@@ -29,9 +29,10 @@ GoSale CRM is built mobile-first — every screen, every AI feature, every workf
 > Clean glassmorphism login with password visibility toggle and splash screen on launch.
 
 <div align="center">
+<img src="screenshots/mobile/Banner.jpeg" width="260" alt="Splash Screen" />
 <img src="screenshots/mobile/login.jpeg" width="260" alt="Login" />
 &nbsp;&nbsp;
-<img src="screenshots/mobile/Banner.jpeg" width="260" alt="Splash Screen" />
+
 </div>
 
 ---
