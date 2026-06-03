@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/mobile/Banner.jpeg" width="200" alt="GoSale CRM" />
+<!-- <img src="screenshots/mobile/Banner.jpeg" width="200" alt="GoSale CRM" /> -->
 
 # 📱 GoSale CRM — Mobile App
 
